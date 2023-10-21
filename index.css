@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+  }
+  
+  .search {
+   
+    padding: 52px;
+  }
+  
+  #book-name {
+    padding: 18px;
+    border: 1px solid #21196a;
+    border-radius: 12px;
+    margin-right: 14px;
+    padding-left: 123px;
+    padding-right: 65px;
+  }
+  
+  #submit-btn {
+    background-color: #fa102ff0;
+    color: white;
+    border: none;
+    padding: 16px 34px;
+    border-radius: 5px;
+    cursor: pointer;        
+  }
+  
+  .book-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  /* #book-list {
+    display: none;
+  }
+   */
+  .book {
+    background-color: black;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 20px;
+   
+    text-align: center;
+    margin: 10px;
+  }
+  
+  #return-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
